@@ -1,3 +1,6 @@
+// 2021 dhakne balaji All Rights Reserved
+
+
 #include<Stdio.h>
 int main()
 {
